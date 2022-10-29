@@ -1,0 +1,148 @@
+#title{
+    background-color: #FFF8EA;
+    position: relative;
+    padding-top: 100px;
+}
+
+body{
+    margin: 0px;
+    /* set the position of the element to the center*/
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #594545;
+    font-size: 17px;
+}
+
+.middle-container{
+    margin: 100px 0px;
+}
+
+.bottom-container{
+    background-color: #9E7676;
+    margin: 50px auto 0px auto;
+    padding: 50px 0px 20px;
+}
+
+.footer-link{
+    margin-top: 50px;
+    color: #594545;
+    font-family: 'Dekko', cursive;
+}
+
+.cloud-left{
+    /* set the position of the element to the center*/
+    /* margin: 0 auto */
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+}
+
+.cloud-right{
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0px auto;
+    color: #9E7676;
+}
+
+h2{
+    font-family: 'Dekko', cursive;
+    font-size: 2.5rem;
+    color: #9E7676;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Dekko', cursive;
+    color: #594545;
+}
+
+a{
+    color: #594545;
+    text-decoration: none;
+    font-family: 'Dekko', cursive;
+    font-size: 25px;
+}
+
+a:hover{
+    color: #FFF8EA;
+}
+
+.picture-of-me{
+    width: 200px;
+    height: 200px;
+}
+
+.skill1{
+    width:20%;
+    border-radius: 50px;
+    float: left;
+    margin-right: 20px;
+
+}
+
+.skill2{
+    width:20%;
+    border-radius: 50px;
+    float: left;
+    margin-right: 20px;
+}
+
+.subtitle{
+ margin: 0px auto 33.2px auto;
+}
+
+.skill-row1{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+}
+
+.skill-row2{
+    width: 50%;
+    margin: 70px auto;
+    text-align: left;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #594545;
+    border-width: 5px;
+    width: 3.5%;
+    margin: 100px auto;
+
+}
+
+.copyright{
+    color: white;
+    font-size: 12px;
+    padding: 20px 0px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Dekko', cursive;
+  color: #FFF8EA;
+  font-size: 29px;
+  background: #594545;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #815B5B;
+  text-decoration: none;
+}
+
+.contact-message{
+    margin: 40px auto 60px
+}
